@@ -6,7 +6,8 @@
 
 ## Description
 
-The purpose of this application to have a website to serve as a portfolio I It is meant to be an H_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+The purpose of this application to have a website to serve as a portfolio of my work. It is supposed to be
+and easy way to show future employers what I have been working on.
 
 ## Setup/Installation Requirements
 
