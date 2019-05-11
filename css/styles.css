@@ -2,6 +2,10 @@ h2 {
   background-color: darkgray;
 }
 
+h3 {
+  background-color: darkgray;
+}
+
 .box {
   margin: 12px;
   border: 2px solid black;
@@ -11,4 +15,8 @@ h2 {
 
 .img {
   float:right;
+}
+
+.important {
+  font-style: italic;
 }
